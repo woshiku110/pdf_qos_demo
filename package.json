@@ -10,6 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "@pdftron/react-native-pdf": "^3.0.4-4",
     "react": "18.2.0",
     "react-native": "0.73.1"
   },
